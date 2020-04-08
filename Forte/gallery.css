@@ -1,0 +1,23 @@
+﻿div.div1{
+    padding-bottom:30px;
+}
+
+div.div1 img{
+    height:155px;
+    width:225px;
+    margin-top:10px;
+    margin-right:10px;
+    box-shadow:3px 3px 5px 1px #cccccc;
+}
+
+div.div1 p{
+    padding-top:10px;
+    line-height:35px;
+    font-weight:bolder;
+    font-size:large;
+}
+div.div1 figcaption{
+    padding-top:20px;
+    font-size:small;
+    line-height:20px;
+}

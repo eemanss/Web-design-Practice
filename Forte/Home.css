@@ -1,0 +1,62 @@
+﻿figure.fig img{
+    height:100%;
+    width:100%;
+    margin-bottom:30px;
+    clear:both;
+    box-shadow:3px 3px 5px 1px #cccccc;
+}
+
+div.middle{
+    margin-left:auto;
+    margin-right:auto;
+    clear:both;
+}
+div.middle div{
+    height:150px;
+    width:240px;
+    text-align:center;
+    float:left;
+    margin-top:20px;
+}
+
+.middle h3{
+    padding:20px;
+}
+.middle p{
+    font-size:small;
+}
+
+.read a{
+    color:#282828;
+}
+.read a:hover{
+    background:url(Imgs/readmore.png);
+    border-radius:5px;
+}
+
+div.down1{
+    clear:both;
+    
+}
+
+div.down1 img{
+    margin:0px 0px 40px 20px ;
+    box-shadow:3px 3px 10px 5px #cccccc;
+    vertical-align:middle;
+    float:right;
+}
+.down1 h2{
+    padding:40px 0px 40px 0px;
+    text-wrap:normal;
+}
+.down1 span{
+    color:lightgrey;
+}
+.down1 divd{
+    border:1px solid black;
+    float:left;
+}
+.down1 p{
+    font-size:small;
+    line-height:20px;
+}

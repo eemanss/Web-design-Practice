@@ -1,0 +1,41 @@
+﻿*{
+    color:#282828;
+}
+
+section{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+div.body{
+    float:left;
+}
+
+div.div1{
+    width:550px;
+    padding-bottom:50px;
+}
+
+div.div1 p{
+    margin-top:10px;
+    font-size:smaller;
+    line-height:20px;
+}
+
+div.div2{
+    margin-left:65px;
+}
+div.div2 h2{
+    margin-left:38px;
+}
+div.div2 a{
+    font-size:small;
+    line-height:27px;
+}
+div.div2 a:hover{
+    color:lightblue;
+}
+
+div.div2 li{
+    list-style-image:url(Imgs/arrow.png);
+}
